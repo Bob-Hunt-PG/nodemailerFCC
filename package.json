@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bob-Hunt-PG/nodemailerFCC/issues"
   },
-  "homepage": "https://github.com/Bob-Hunt-PG/nodemailerFCC#readme"
+  "homepage": "https://github.com/Bob-Hunt-PG/nodemailerFCC#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
