@@ -1,0 +1,19 @@
+{
+  "name": "nodemailerfcc",
+  "version": "1.0.0",
+  "description": "Tutorial:  https://www.freecodecamp.org/news/use-nodemailer-to-send-emails-from-your-node-js-server/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bob-Hunt-PG/nodemailerFCC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bob-Hunt-PG/nodemailerFCC/issues"
+  },
+  "homepage": "https://github.com/Bob-Hunt-PG/nodemailerFCC#readme"
+}
